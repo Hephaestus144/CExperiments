@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/colli/Documents/GitHub/CExperiments/Functions.c
+Functions.h
+/cygdrive/c/Users/colli/Documents/GitHub/CExperiments/Functions.h
+
+/cygdrive/c/Users/colli/Documents/GitHub/CExperiments/Functions.h
+stdio.h
+-
+
+/cygdrive/c/Users/colli/Documents/GitHub/CExperiments/main.c
+stdio.h
+-
+Functions.h
+/cygdrive/c/Users/colli/Documents/GitHub/CExperiments/Functions.h
+
