@@ -12,29 +12,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdceeee9-37a4-48a2-b0b2-dc1afeada6bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FileHandling.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/Colours.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/Colours.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions.c" beforeDir="false" afterPath="$PROJECT_DIR$/Functions.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileHandling.c" beforeDir="false" afterPath="$PROJECT_DIR$/FileHandling.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileHandling.h" beforeDir="false" afterPath="$PROJECT_DIR$/FileHandling.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Functions.h" beforeDir="false" afterPath="$PROJECT_DIR$/Functions.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CExperiments.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CExperiments.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilities/Colours.c" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities/Colours.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CExperiments.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CExperiments.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CExperiments.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CExperiments.dir/C.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CExperiments.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CExperiments.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CExperiments.dir/Functions.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CExperiments.dir/Functions.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CExperiments.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CExperiments.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CExperiments.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CExperiments.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CExperiments.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CExperiments.dir/depend.internal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CExperiments.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CExperiments.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CExperiments.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CExperiments.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CExperiments.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CExperiments.dir/main.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CExperiments.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CExperiments.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,7 +76,7 @@
       <workItem from="1581151739191" duration="3169000" />
       <workItem from="1581168964179" duration="4955000" />
       <workItem from="1581175530563" duration="754000" />
-      <workItem from="1581237562800" duration="2734000" />
+      <workItem from="1581237562800" duration="3927000" />
     </task>
     <servers />
   </component>
@@ -108,5 +95,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/FileHandling.c</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

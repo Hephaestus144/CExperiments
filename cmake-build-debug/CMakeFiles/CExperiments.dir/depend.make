@@ -3,9 +3,13 @@
 
 CMakeFiles/CExperiments.dir/FileHandling.c.o: ../FileHandling.c
 CMakeFiles/CExperiments.dir/FileHandling.c.o: ../FileHandling.h
+CMakeFiles/CExperiments.dir/FileHandling.c.o: ../Utilities/Colours.h
 
 CMakeFiles/CExperiments.dir/Functions.c.o: ../Functions.c
 CMakeFiles/CExperiments.dir/Functions.c.o: ../Functions.h
+
+CMakeFiles/CExperiments.dir/Utilities/Colours.c.o: ../Utilities/Colours.c
+CMakeFiles/CExperiments.dir/Utilities/Colours.c.o: ../Utilities/Colours.h
 
 CMakeFiles/CExperiments.dir/main.c.o: ../FileHandling.h
 CMakeFiles/CExperiments.dir/main.c.o: ../Functions.h

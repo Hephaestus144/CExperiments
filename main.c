@@ -7,5 +7,6 @@
 int main()
 {
     write_example_strings_to_file();
+    read_strings_from_file();
     return 0;
 }

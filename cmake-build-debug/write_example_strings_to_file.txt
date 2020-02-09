@@ -1,0 +1,2 @@
+Even though the character buffer has length 100,
+no extra lines or characters are being written to the file.

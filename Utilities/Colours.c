@@ -68,5 +68,5 @@ void cyan_bold()
 
 void colours_reset()
 {
-    printf("\033[0m"):
+    printf("\033[0m");
 }

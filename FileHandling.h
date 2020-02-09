@@ -14,7 +14,7 @@
 #define CEXPERIMENTS_FILEHANDLING_H
 
 void write_example_strings_to_file();
-void read_string_from_file(char *filename);
 
+void read_strings_from_file();
 
 #endif //CEXPERIMENTS_FILEHANDLING_H
