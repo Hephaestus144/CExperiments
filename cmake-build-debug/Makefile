@@ -123,6 +123,33 @@ CExperiments/fast:
 	$(MAKE) -f CMakeFiles/CExperiments.dir/build.make CMakeFiles/CExperiments.dir/build
 .PHONY : CExperiments/fast
 
+FileHandling.o: FileHandling.c.o
+
+.PHONY : FileHandling.o
+
+# target to build an object file
+FileHandling.c.o:
+	$(MAKE) -f CMakeFiles/CExperiments.dir/build.make CMakeFiles/CExperiments.dir/FileHandling.c.o
+.PHONY : FileHandling.c.o
+
+FileHandling.i: FileHandling.c.i
+
+.PHONY : FileHandling.i
+
+# target to preprocess a source file
+FileHandling.c.i:
+	$(MAKE) -f CMakeFiles/CExperiments.dir/build.make CMakeFiles/CExperiments.dir/FileHandling.c.i
+.PHONY : FileHandling.c.i
+
+FileHandling.s: FileHandling.c.s
+
+.PHONY : FileHandling.s
+
+# target to generate assembly for a file
+FileHandling.c.s:
+	$(MAKE) -f CMakeFiles/CExperiments.dir/build.make CMakeFiles/CExperiments.dir/FileHandling.c.s
+.PHONY : FileHandling.c.s
+
 Functions.o: Functions.c.o
 
 .PHONY : Functions.o
@@ -149,6 +176,33 @@ Functions.s: Functions.c.s
 Functions.c.s:
 	$(MAKE) -f CMakeFiles/CExperiments.dir/build.make CMakeFiles/CExperiments.dir/Functions.c.s
 .PHONY : Functions.c.s
+
+Utilities/Colours.o: Utilities/Colours.c.o
+
+.PHONY : Utilities/Colours.o
+
+# target to build an object file
+Utilities/Colours.c.o:
+	$(MAKE) -f CMakeFiles/CExperiments.dir/build.make CMakeFiles/CExperiments.dir/Utilities/Colours.c.o
+.PHONY : Utilities/Colours.c.o
+
+Utilities/Colours.i: Utilities/Colours.c.i
+
+.PHONY : Utilities/Colours.i
+
+# target to preprocess a source file
+Utilities/Colours.c.i:
+	$(MAKE) -f CMakeFiles/CExperiments.dir/build.make CMakeFiles/CExperiments.dir/Utilities/Colours.c.i
+.PHONY : Utilities/Colours.c.i
+
+Utilities/Colours.s: Utilities/Colours.c.s
+
+.PHONY : Utilities/Colours.s
+
+# target to generate assembly for a file
+Utilities/Colours.c.s:
+	$(MAKE) -f CMakeFiles/CExperiments.dir/build.make CMakeFiles/CExperiments.dir/Utilities/Colours.c.s
+.PHONY : Utilities/Colours.c.s
 
 main.o: main.c.o
 
@@ -186,9 +240,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... CExperiments"
 	@echo "... edit_cache"
+	@echo "... FileHandling.o"
+	@echo "... FileHandling.i"
+	@echo "... FileHandling.s"
 	@echo "... Functions.o"
 	@echo "... Functions.i"
 	@echo "... Functions.s"
+	@echo "... Utilities/Colours.o"
+	@echo "... Utilities/Colours.i"
+	@echo "... Utilities/Colours.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

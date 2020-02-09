@@ -1,1 +1,1 @@
-/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/CExperiments.dir/main.c.o CMakeFiles/CExperiments.dir/Functions.c.o  -o CExperiments.exe -Wl,--out-implib,libCExperiments.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/CExperiments.dir/main.c.o CMakeFiles/CExperiments.dir/Functions.c.o CMakeFiles/CExperiments.dir/FileHandling.c.o CMakeFiles/CExperiments.dir/Utilities/Colours.c.o  -o CExperiments.exe -Wl,--out-implib,libCExperiments.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

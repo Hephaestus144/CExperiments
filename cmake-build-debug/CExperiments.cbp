@@ -74,10 +74,22 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/cygdrive/c/Users/colli/Documents/GitHub/CExperiments/FileHandling.c">
+			<Option target="CExperiments"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/colli/Documents/GitHub/CExperiments/FileHandling.h">
+			<Option target="CExperiments"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/colli/Documents/GitHub/CExperiments/Functions.c">
 			<Option target="CExperiments"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/colli/Documents/GitHub/CExperiments/Functions.h">
+			<Option target="CExperiments"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/colli/Documents/GitHub/CExperiments/Utilities/Colours.c">
+			<Option target="CExperiments"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/colli/Documents/GitHub/CExperiments/Utilities/Colours.h">
 			<Option target="CExperiments"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/colli/Documents/GitHub/CExperiments/main.c">

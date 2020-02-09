@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/CExperiments.dir/main.c.o"
   "CMakeFiles/CExperiments.dir/Functions.c.o"
+  "CMakeFiles/CExperiments.dir/FileHandling.c.o"
+  "CMakeFiles/CExperiments.dir/Utilities/Colours.c.o"
   "CExperiments.pdb"
   "CExperiments.exe"
   "libCExperiments.dll.a"

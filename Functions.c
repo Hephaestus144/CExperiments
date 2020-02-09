@@ -5,7 +5,7 @@
 
 void SayHello()
 {
-    printf("Hello again");
+    printf("Hello again\n");
 }
 
 

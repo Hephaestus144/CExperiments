@@ -1,13 +1,11 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 #include "Functions.h"
+#include "FileHandling.h"
 
 int main()
 {
-    printf("Hello, World!\n");
-    SayHello();
-    int a = 1;
-    int b = 2;
-    printf("a + b = %d\n", AddTwoNumbers(a, b));
-    getchar();
+    write_example_strings_to_file();
     return 0;
 }
